@@ -1,5 +1,5 @@
 
-# To do list
+# Leaderboard list
 
 >In this project a leaderborad list app is setup with webpack, Gitflow and ES6 features. 
 
